@@ -1,0 +1,16 @@
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\bin\Debug\net5.0\ConsoleApp.NonGeneric.exe
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\bin\Debug\net5.0\ConsoleApp.NonGeneric.deps.json
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\bin\Debug\net5.0\ConsoleApp.NonGeneric.runtimeconfig.json
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\bin\Debug\net5.0\ConsoleApp.NonGeneric.runtimeconfig.dev.json
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\bin\Debug\net5.0\ConsoleApp.NonGeneric.dll
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\bin\Debug\net5.0\ref\ConsoleApp.NonGeneric.dll
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\bin\Debug\net5.0\ConsoleApp.NonGeneric.pdb
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\obj\Debug\net5.0\ConsoleApp.NonGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\obj\Debug\net5.0\ConsoleApp.NonGeneric.AssemblyInfoInputs.cache
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\obj\Debug\net5.0\ConsoleApp.NonGeneric.AssemblyInfo.cs
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\obj\Debug\net5.0\ConsoleApp.NonGeneric.csproj.CoreCompileInputs.cache
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\obj\Debug\net5.0\ConsoleApp.NonGeneric.dll
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\obj\Debug\net5.0\ref\ConsoleApp.NonGeneric.dll
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\obj\Debug\net5.0\ConsoleApp.NonGeneric.pdb
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\obj\Debug\net5.0\ConsoleApp.NonGeneric.genruntimeconfig.cache
+C:\Users\zamanjs\source\repos\ConsoleApp.NonGeneric\ConsoleApp.NonGeneric\obj\Debug\net5.0\ConsoleApp.NonGeneric.csproj.AssemblyReference.cache
